@@ -1,0 +1,25 @@
+{
+	"name": "restaurant-page",
+	"version": "1.0.0",
+	"description": "Dynamically rendered restaurant homepage",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "webpack"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/palleet/restaurant-page.git"
+	},
+	"author": "Patrick Lee",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/palleet/restaurant-page/issues"
+	},
+	"homepage": "https://github.com/palleet/restaurant-page#readme",
+	"devDependencies": {
+		"html-webpack-plugin": "^5.6.0",
+		"webpack": "^5.92.1",
+		"webpack-cli": "^5.1.4"
+	}
+}
